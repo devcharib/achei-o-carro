@@ -1,9 +1,0 @@
-{
-  "name": "onde-meu-carro",
-  "version": "1.0.0",
-  "description": "PWA para salvar onde você estacionou e navegar de volta",
-  "scripts": {
-    "icons": "node generate-icons.js",
-    "start": "npx serve public -l 3000"
-  }
-}
