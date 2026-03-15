@@ -2,7 +2,7 @@
   "name": "Onde Meu Carro",
   "short_name": "Meu Carro",
   "description": "Salve onde você estacionou e navegue de volta facilmente.",
-  "start_url": "/",
+  "start_url": "/achei-o-carro/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
