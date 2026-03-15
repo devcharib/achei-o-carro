@@ -1,5 +1,5 @@
 const CACHE = 'ondemeucarro-v1';
-const ASSETS = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json'];
+const ASSETS = ['/achei-o-carro/', '/achei-o-carro/index.html', '/achei-o-carro/style.css', '/achei-o-carro/app.js', '/achei-o-carro/manifest.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(
